@@ -1,0 +1,22 @@
+.wpac_wrap a{
+	width: 50%;
+	float: left;
+	text-align: center;
+	border: 1px solid;
+    padding: 5px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a.dislike-btn{
+	background-color: #ca3f3f;
+}
+a.dislike-btn:hover{
+	background-color: #c10000;
+}
+a.like-btn{
+	background-color: #3cb966;
+}
+a.like-btn:hover{
+	background-color: #078e34;
+}
