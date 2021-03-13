@@ -30,13 +30,13 @@
 			//Add a Setting #
 			register_setting(
 				'wpac-settings',//string $option_group
-			    'wpac_like_btn_label'//string $option_name
+			    'wpac_like_btn_label'//string $option_name/id
 			    //callable $sanitize_callback = ''
 			);
 
 			register_setting(
 				'wpac-settings',//string $option_group
-			    'wpac_dislike_btn_label'//string $option_name
+			    'wpac_dislike_btn_label'//string $option_name/id
 			    //callable $sanitize_callback = ''
 			);
 
